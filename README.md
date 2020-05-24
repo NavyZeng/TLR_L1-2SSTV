@@ -8,7 +8,7 @@ Since the size of Washington DC dataset exceeds the Github file size limit, we d
 The Washington DC dataset we use in the Demo.m can be downloaded on the following public website:
 https://engineering.purdue.edu/~biehl/MultiSpec/hyperspectral.html
 
-Let "WDC"represent the original Washington DC dataset, then, the
+Let "WDC"represents the original Washington DC dataset, then, the
 subimage "WDC(1025:1280,1:256,1:191)" is used in the Demo.m.
 
 % If you find any bug, please contact zeng_navy@163.com
