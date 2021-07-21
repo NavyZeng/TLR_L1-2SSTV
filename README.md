@@ -12,5 +12,3 @@ Let "WDC"represents the original Washington DC dataset, then, the
 subimage "WDC(1025:1280,1:256,1:191)" is used in the Demo.m.
 
 % If you find any bug, please contact zeng_navy@163.com
-# Note
-We promiose that our code will all be updated as .m format as soon as the publication of our paper.
